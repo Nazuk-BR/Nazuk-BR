@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on CS50 Course<br>🌱 Currently learning C<br>💬 Ask me about anything!<br>⚡ Fun fact I learned English by watching "The Fresh Prince of Bel-Air"
+🔭 Currently working on CS50 Course<br>🌱 Currently learning Python and C<br>💬 Ask me about anything!<br>⚡ Fun fact I learned English by watching "The Fresh Prince of Bel-Air"
 
 
 ## 🌐 Socials:
